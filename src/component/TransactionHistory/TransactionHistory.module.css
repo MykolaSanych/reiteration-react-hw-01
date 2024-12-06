@@ -1,0 +1,8 @@
+.hed > th {
+  width: 150px;
+  background-color: brown;
+}
+.line > td {
+  color: black;
+  background-color: aquamarine;
+}

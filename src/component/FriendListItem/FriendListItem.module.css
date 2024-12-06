@@ -1,0 +1,12 @@
+.item {
+  /* display: flex; */
+  border: solid 2px;
+  border-color: rgb(90, 0, 128);
+  border-radius: 5px;
+  width: 60px;
+  background-color: bisque;
+  color: black;
+}
+p {
+  margin: 0;
+}
